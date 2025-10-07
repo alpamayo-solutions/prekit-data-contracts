@@ -3,8 +3,8 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "franzmq-extension-test"
-version = "0.1.2"
+name = "prekit-data-contracts"
+version = "0.1.1"
 description = "Extension package for franzmq"
 readme = "README.md"
 requires-python = ">=3.10"
